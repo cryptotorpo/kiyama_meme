@@ -1,0 +1,1224 @@
+.elementor-8 .elementor-element.elementor-element-ecc6e87 {
+  --display: flex;
+  --flex-direction: column;
+  --container-widget-width: 100%;
+  --container-widget-height: initial;
+  --container-widget-flex-grow: 0;
+  --container-widget-align-self: initial;
+  --flex-wrap-mobile: wrap;
+  --background-transition: 0.3s;
+  --overlay-opacity: 1;
+}
+.elementor-8 .elementor-element.elementor-element-ecc6e87::before,
+.elementor-8
+  .elementor-element.elementor-element-ecc6e87
+  > .elementor-background-video-container::before,
+.elementor-8
+  .elementor-element.elementor-element-ecc6e87
+  > .e-con-inner
+  > .elementor-background-video-container::before,
+.elementor-8
+  .elementor-element.elementor-element-ecc6e87
+  > .elementor-background-slideshow::before,
+.elementor-8
+  .elementor-element.elementor-element-ecc6e87
+  > .e-con-inner
+  > .elementor-background-slideshow::before,
+.elementor-8
+  .elementor-element.elementor-element-ecc6e87
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer::before {
+  background-image: url("/wp-content/uploads/2024/11/Asset-14.png");
+  --background-overlay: "";
+  background-position: center center;
+  background-size: cover;
+}
+.elementor-8
+  .elementor-element.elementor-element-ecc6e87:not(
+    .elementor-motion-effects-element-type-background
+  ),
+.elementor-8
+  .elementor-element.elementor-element-ecc6e87
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-color: #ffffff;
+}
+.elementor-8 .elementor-element.elementor-element-ecc6e87,
+.elementor-8 .elementor-element.elementor-element-ecc6e87::before {
+  --border-transition: 0.3s;
+}
+.elementor-8 .elementor-element.elementor-element-472a51d {
+  --display: grid;
+  --e-con-grid-template-columns: repeat(2, 1fr);
+  --e-con-grid-template-rows: repeat(1, 1fr);
+  --grid-auto-flow: row;
+  --background-transition: 0.3s;
+}
+.elementor-8 .elementor-element.elementor-element-403d79c {
+  --display: flex;
+  --justify-content: center;
+  --background-transition: 0.3s;
+}
+.elementor-8 .elementor-element.elementor-element-98167e5 {
+  text-align: left;
+}
+.elementor-8 .elementor-element.elementor-element-98167e5 img {
+  max-width: 38%;
+}
+.elementor-8 .elementor-element.elementor-element-e2b9514 {
+  --display: flex;
+  --background-transition: 0.3s;
+}
+.elementor-8 .elementor-element.elementor-element-6ddd298 {
+  --grid-template-columns: repeat(0, auto);
+  --grid-column-gap: 5px;
+  --grid-row-gap: 0px;
+}
+.elementor-8
+  .elementor-element.elementor-element-6ddd298
+  .elementor-widget-container {
+  text-align: right;
+}
+.elementor-8
+  .elementor-element.elementor-element-6ddd298
+  > .elementor-widget-container {
+  margin: 0px 0px 0px 0px;
+}
+.elementor-8
+  .elementor-element.elementor-element-6ddd298
+  .elementor-social-icon {
+  background-color: #ffffff;
+}
+.elementor-8
+  .elementor-element.elementor-element-6ddd298
+  .elementor-social-icon
+  i {
+  color: #2f4fa2;
+}
+.elementor-8
+  .elementor-element.elementor-element-6ddd298
+  .elementor-social-icon
+  svg {
+  fill: #2f4fa2;
+}
+.elementor-8 .elementor-element.elementor-element-0c7174d {
+  --display: flex;
+  --background-transition: 0.3s;
+  --margin-top: 0px;
+  --margin-bottom: -40px;
+  --margin-left: 0px;
+  --margin-right: 0px;
+  --z-index: 55;
+}
+.elementor-8 .elementor-element.elementor-element-8452bbd {
+  --spacer-size: 50px;
+}
+.elementor-8 .elementor-element.elementor-element-a1de03c {
+  text-align: left;
+}
+.elementor-8 .elementor-element.elementor-element-a1de03c img {
+  max-width: 52%;
+}
+.elementor-8
+  .elementor-element.elementor-element-e609d87
+  .elementor-heading-title {
+  color: #000000;
+  font-family: "Reddit Sans", Sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 23px;
+  letter-spacing: 0.2px;
+}
+.elementor-8 .elementor-element.elementor-element-9f3c68e {
+  --display: flex;
+  --flex-direction: row;
+  --container-widget-width: calc(
+    (1 - var(--container-widget-flex-grow)) * 100%
+  );
+  --container-widget-height: 100%;
+  --container-widget-flex-grow: 1;
+  --container-widget-align-self: stretch;
+  --flex-wrap-mobile: wrap;
+  --justify-content: center;
+  --align-items: center;
+  --background-transition: 0.3s;
+}
+.elementor-8 .elementor-element.elementor-element-9f3c68e.e-con {
+  --flex-grow: 0;
+  --flex-shrink: 0;
+}
+.elementor-8
+  .elementor-element.elementor-element-5b4dca2
+  .elementor-heading-title {
+  color: #000000;
+  font-family: "Reddit Sans", Sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 23px;
+  letter-spacing: 0.2px;
+}
+.elementor-8 .elementor-element.elementor-element-abe2f91 {
+  --display: flex;
+  --flex-direction: column;
+  --container-widget-width: 100%;
+  --container-widget-height: initial;
+  --container-widget-flex-grow: 0;
+  --container-widget-align-self: initial;
+  --flex-wrap-mobile: wrap;
+  --justify-content: center;
+  --background-transition: 0.3s;
+  --border-radius: 30px 30px 30px 30px;
+  --padding-top: 10px;
+  --padding-bottom: 10px;
+  --padding-left: 10px;
+  --padding-right: 10px;
+}
+.elementor-8
+  .elementor-element.elementor-element-abe2f91:not(
+    .elementor-motion-effects-element-type-background
+  ),
+.elementor-8
+  .elementor-element.elementor-element-abe2f91
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-color: transparent;
+  background-image: linear-gradient(142deg, #2f4fa2 0%, #4fa4f5 100%);
+}
+.elementor-8 .elementor-element.elementor-element-abe2f91,
+.elementor-8 .elementor-element.elementor-element-abe2f91::before {
+  --border-transition: 0.3s;
+}
+.elementor-8
+  .elementor-element.elementor-element-e7fe517
+  .elementor-heading-title {
+  color: #ffffff;
+  font-family: "Reddit Sans", Sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 23px;
+  letter-spacing: 0.2px;
+}
+.elementor-8
+  .elementor-element.elementor-element-6f4fdb1
+  > .elementor-widget-container {
+  margin: -440px 100px -10px 0px;
+}
+.elementor-8 .elementor-element.elementor-element-6f4fdb1 {
+  text-align: right;
+}
+.elementor-8 .elementor-element.elementor-element-6f4fdb1 img {
+  max-width: 43%;
+}
+.elementor-8 .elementor-element.elementor-element-30177aa {
+  --display: flex;
+  --flex-direction: column;
+  --container-widget-width: 100%;
+  --container-widget-height: initial;
+  --container-widget-flex-grow: 0;
+  --container-widget-align-self: initial;
+  --flex-wrap-mobile: wrap;
+  --background-transition: 0.3s;
+}
+.elementor-8
+  .elementor-element.elementor-element-30177aa:not(
+    .elementor-motion-effects-element-type-background
+  ),
+.elementor-8
+  .elementor-element.elementor-element-30177aa
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-color: transparent;
+  background-image: linear-gradient(142deg, #2f4fa2 0%, #4fa4f5 100%);
+}
+.elementor-8 .elementor-element.elementor-element-30177aa,
+.elementor-8 .elementor-element.elementor-element-30177aa::before {
+  --border-transition: 0.3s;
+}
+.elementor-8 .elementor-element.elementor-element-64c71fd {
+  --display: flex;
+  --background-transition: 0.3s;
+}
+.elementor-8 .elementor-element.elementor-element-87d3722 {
+  --display: flex;
+  --flex-direction: column;
+  --container-widget-width: 100%;
+  --container-widget-height: initial;
+  --container-widget-flex-grow: 0;
+  --container-widget-align-self: initial;
+  --flex-wrap-mobile: wrap;
+  --background-transition: 0.3s;
+  --overlay-opacity: 1;
+}
+.elementor-8 .elementor-element.elementor-element-87d3722::before,
+.elementor-8
+  .elementor-element.elementor-element-87d3722
+  > .elementor-background-video-container::before,
+.elementor-8
+  .elementor-element.elementor-element-87d3722
+  > .e-con-inner
+  > .elementor-background-video-container::before,
+.elementor-8
+  .elementor-element.elementor-element-87d3722
+  > .elementor-background-slideshow::before,
+.elementor-8
+  .elementor-element.elementor-element-87d3722
+  > .e-con-inner
+  > .elementor-background-slideshow::before,
+.elementor-8
+  .elementor-element.elementor-element-87d3722
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer::before {
+  background-image: url("/wp-content/uploads/2024/11/Asset-10.png");
+  --background-overlay: "";
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.elementor-8
+  .elementor-element.elementor-element-87d3722:not(
+    .elementor-motion-effects-element-type-background
+  ),
+.elementor-8
+  .elementor-element.elementor-element-87d3722
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-color: #ffffff;
+}
+.elementor-8 .elementor-element.elementor-element-87d3722,
+.elementor-8 .elementor-element.elementor-element-87d3722::before {
+  --border-transition: 0.3s;
+}
+.elementor-8 .elementor-element.elementor-element-43c7fc4 {
+  --spacer-size: 50px;
+}
+.elementor-8 .elementor-element.elementor-element-3e91f7a {
+  --display: grid;
+  --e-con-grid-template-columns: repeat(2, 1fr);
+  --e-con-grid-template-rows: repeat(1, 1fr);
+  --grid-auto-flow: row;
+  --background-transition: 0.3s;
+  --margin-top: 0px;
+  --margin-bottom: -50px;
+  --margin-left: 0px;
+  --margin-right: 0px;
+  --z-index: 22;
+}
+.elementor-8 .elementor-element.elementor-element-315aefa {
+  --display: flex;
+  --background-transition: 0.3s;
+}
+.elementor-8 .elementor-element.elementor-element-63743cb {
+  --spacer-size: 50px;
+}
+.elementor-8 .elementor-element.elementor-element-770a8b8 {
+  --display: flex;
+  --background-transition: 0.3s;
+}
+.elementor-8 .elementor-element.elementor-element-afce953 {
+  --spacer-size: 50px;
+}
+.elementor-8 .elementor-element.elementor-element-861baf2 {
+  text-align: left;
+}
+.elementor-8 .elementor-element.elementor-element-861baf2 img {
+  max-width: 57%;
+}
+.elementor-8
+  .elementor-element.elementor-element-6499ce2
+  .elementor-heading-title {
+  color: #000000;
+  font-family: "Reddit Sans", Sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 23px;
+  letter-spacing: 0.2px;
+}
+.elementor-8
+  .elementor-element.elementor-element-e2e77d2
+  > .elementor-widget-container {
+  margin: -400px 0px -10px 60px;
+}
+.elementor-8 .elementor-element.elementor-element-e2e77d2 {
+  text-align: left;
+}
+.elementor-8 .elementor-element.elementor-element-e2e77d2 img {
+  max-width: 38%;
+}
+.elementor-8 .elementor-element.elementor-element-cd7729e {
+  --display: flex;
+  --flex-direction: column;
+  --container-widget-width: 100%;
+  --container-widget-height: initial;
+  --container-widget-flex-grow: 0;
+  --container-widget-align-self: initial;
+  --flex-wrap-mobile: wrap;
+  --background-transition: 0.3s;
+  --overlay-opacity: 1;
+}
+.elementor-8 .elementor-element.elementor-element-cd7729e::before,
+.elementor-8
+  .elementor-element.elementor-element-cd7729e
+  > .elementor-background-video-container::before,
+.elementor-8
+  .elementor-element.elementor-element-cd7729e
+  > .e-con-inner
+  > .elementor-background-video-container::before,
+.elementor-8
+  .elementor-element.elementor-element-cd7729e
+  > .elementor-background-slideshow::before,
+.elementor-8
+  .elementor-element.elementor-element-cd7729e
+  > .e-con-inner
+  > .elementor-background-slideshow::before,
+.elementor-8
+  .elementor-element.elementor-element-cd7729e
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer::before {
+  background-image: url("/wp-content/uploads/2024/11/Asset-10.png");
+  --background-overlay: "";
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.elementor-8
+  .elementor-element.elementor-element-cd7729e:not(
+    .elementor-motion-effects-element-type-background
+  ),
+.elementor-8
+  .elementor-element.elementor-element-cd7729e
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-color: #ffffff;
+}
+.elementor-8 .elementor-element.elementor-element-cd7729e,
+.elementor-8 .elementor-element.elementor-element-cd7729e::before {
+  --border-transition: 0.3s;
+}
+.elementor-8 .elementor-element.elementor-element-f2455df {
+  --spacer-size: 50px;
+}
+.elementor-8 .elementor-element.elementor-element-468c18f {
+  --display: grid;
+  --e-con-grid-template-columns: repeat(2, 1fr);
+  --e-con-grid-template-rows: repeat(1, 1fr);
+  --grid-auto-flow: row;
+  --background-transition: 0.3s;
+  --margin-top: 0px;
+  --margin-bottom: 0px;
+  --margin-left: 0px;
+  --margin-right: 0px;
+  --z-index: 22;
+}
+.elementor-8 .elementor-element.elementor-element-0ea94f7 {
+  --display: flex;
+  --background-transition: 0.3s;
+}
+.elementor-8 .elementor-element.elementor-element-85b726a img {
+  max-width: 75%;
+}
+.elementor-8 .elementor-element.elementor-element-694e26c {
+  --display: flex;
+  --justify-content: center;
+  --background-transition: 0.3s;
+}
+.elementor-8 .elementor-element.elementor-element-694e26c.e-con {
+  --order: -99999 /* order start hack */;
+}
+.elementor-8 .elementor-element.elementor-element-28ca693 {
+  text-align: left;
+}
+.elementor-8 .elementor-element.elementor-element-28ca693 img {
+  max-width: 65%;
+}
+.elementor-8
+  .elementor-element.elementor-element-db3c985
+  .elementor-heading-title {
+  color: #000000;
+  font-family: "Reddit Sans", Sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 23px;
+  letter-spacing: 0.2px;
+}
+.elementor-8 .elementor-element.elementor-element-46e3325 {
+  --spacer-size: 50px;
+}
+.elementor-8 .elementor-element.elementor-element-c3ddaee {
+  --display: flex;
+  --flex-direction: column;
+  --container-widget-width: 100%;
+  --container-widget-height: initial;
+  --container-widget-flex-grow: 0;
+  --container-widget-align-self: initial;
+  --flex-wrap-mobile: wrap;
+  --background-transition: 0.3s;
+}
+.elementor-8
+  .elementor-element.elementor-element-c3ddaee:not(
+    .elementor-motion-effects-element-type-background
+  ),
+.elementor-8
+  .elementor-element.elementor-element-c3ddaee
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-color: transparent;
+  background-image: linear-gradient(142deg, #2f4fa2 0%, #4fa4f5 100%);
+}
+.elementor-8 .elementor-element.elementor-element-c3ddaee,
+.elementor-8 .elementor-element.elementor-element-c3ddaee::before {
+  --border-transition: 0.3s;
+}
+.elementor-8 .elementor-element.elementor-element-809e776 {
+  --display: flex;
+  --background-transition: 0.3s;
+}
+.elementor-8 .elementor-element.elementor-element-eba606e {
+  --display: flex;
+  --flex-direction: column;
+  --container-widget-width: 100%;
+  --container-widget-height: initial;
+  --container-widget-flex-grow: 0;
+  --container-widget-align-self: initial;
+  --flex-wrap-mobile: wrap;
+  --background-transition: 0.3s;
+  --overlay-opacity: 1;
+}
+.elementor-8 .elementor-element.elementor-element-eba606e::before,
+.elementor-8
+  .elementor-element.elementor-element-eba606e
+  > .elementor-background-video-container::before,
+.elementor-8
+  .elementor-element.elementor-element-eba606e
+  > .e-con-inner
+  > .elementor-background-video-container::before,
+.elementor-8
+  .elementor-element.elementor-element-eba606e
+  > .elementor-background-slideshow::before,
+.elementor-8
+  .elementor-element.elementor-element-eba606e
+  > .e-con-inner
+  > .elementor-background-slideshow::before,
+.elementor-8
+  .elementor-element.elementor-element-eba606e
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer::before {
+  background-image: url("/wp-content/uploads/2024/11/Asset-10.png");
+  --background-overlay: "";
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.elementor-8
+  .elementor-element.elementor-element-eba606e:not(
+    .elementor-motion-effects-element-type-background
+  ),
+.elementor-8
+  .elementor-element.elementor-element-eba606e
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-color: #ffffff;
+}
+.elementor-8 .elementor-element.elementor-element-eba606e,
+.elementor-8 .elementor-element.elementor-element-eba606e::before {
+  --border-transition: 0.3s;
+}
+.elementor-8 .elementor-element.elementor-element-a83318d {
+  --spacer-size: 50px;
+}
+.elementor-8 .elementor-element.elementor-element-20b2c6c {
+  --display: flex;
+  --justify-content: center;
+  --align-items: center;
+  --container-widget-width: calc(
+    (1 - var(--container-widget-flex-grow)) * 100%
+  );
+  --background-transition: 0.3s;
+  --margin-top: 0px;
+  --margin-bottom: 0px;
+  --margin-left: 0px;
+  --margin-right: 0px;
+  --z-index: 22;
+}
+.elementor-8 .elementor-element.elementor-element-0043611 img {
+  max-width: 42%;
+}
+.elementor-8 .elementor-element.elementor-element-12bfb5e {
+  --display: grid;
+  --e-con-grid-template-columns: repeat(2, 1fr);
+  --e-con-grid-template-rows: repeat(2, 1fr);
+  --grid-auto-flow: row;
+  --background-transition: 0.3s;
+}
+.elementor-8 .elementor-element.elementor-element-12bfb5e.e-con {
+  --flex-grow: 0;
+  --flex-shrink: 0;
+}
+.elementor-8 .elementor-element.elementor-element-f2f5aac {
+  --display: flex;
+  --flex-direction: column;
+  --container-widget-width: 100%;
+  --container-widget-height: initial;
+  --container-widget-flex-grow: 0;
+  --container-widget-align-self: initial;
+  --flex-wrap-mobile: wrap;
+  --justify-content: center;
+  --background-transition: 0.3s;
+  --border-radius: 20px 20px 20px 20px;
+}
+.elementor-8
+  .elementor-element.elementor-element-f2f5aac:not(
+    .elementor-motion-effects-element-type-background
+  ),
+.elementor-8
+  .elementor-element.elementor-element-f2f5aac
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-color: transparent;
+  background-image: linear-gradient(142deg, #2f4fa2 0%, #4fa4f5 100%);
+}
+.elementor-8 .elementor-element.elementor-element-f2f5aac,
+.elementor-8 .elementor-element.elementor-element-f2f5aac::before {
+  --border-transition: 0.3s;
+}
+.elementor-8 .elementor-element.elementor-element-1082c4c {
+  text-align: center;
+}
+.elementor-8
+  .elementor-element.elementor-element-1082c4c
+  .elementor-heading-title {
+  color: #ffffff;
+  font-family: "Reddit Sans", Sans-serif;
+  font-size: 65px;
+  font-weight: 600;
+  letter-spacing: 0.2px;
+}
+.elementor-8
+  .elementor-element.elementor-element-aefd750
+  > .elementor-widget-container {
+  margin: -15px 0px 0px 0px;
+}
+.elementor-8 .elementor-element.elementor-element-aefd750 {
+  text-align: center;
+}
+.elementor-8
+  .elementor-element.elementor-element-aefd750
+  .elementor-heading-title {
+  color: #ffffff;
+  font-family: "Reddit Sans", Sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 23px;
+  letter-spacing: 0.2px;
+}
+.elementor-8 .elementor-element.elementor-element-dfecc02 {
+  --display: flex;
+  --flex-direction: column;
+  --container-widget-width: 100%;
+  --container-widget-height: initial;
+  --container-widget-flex-grow: 0;
+  --container-widget-align-self: initial;
+  --flex-wrap-mobile: wrap;
+  --justify-content: center;
+  --background-transition: 0.3s;
+  --border-radius: 20px 20px 20px 20px;
+}
+.elementor-8
+  .elementor-element.elementor-element-dfecc02:not(
+    .elementor-motion-effects-element-type-background
+  ),
+.elementor-8
+  .elementor-element.elementor-element-dfecc02
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-color: transparent;
+  background-image: linear-gradient(142deg, #2f4fa2 0%, #4fa4f5 100%);
+}
+.elementor-8 .elementor-element.elementor-element-dfecc02,
+.elementor-8 .elementor-element.elementor-element-dfecc02::before {
+  --border-transition: 0.3s;
+}
+.elementor-8 .elementor-element.elementor-element-c49ee36 {
+  text-align: center;
+}
+.elementor-8
+  .elementor-element.elementor-element-c49ee36
+  .elementor-heading-title {
+  color: #ffffff;
+  font-family: "Reddit Sans", Sans-serif;
+  font-size: 65px;
+  font-weight: 600;
+  letter-spacing: 0.2px;
+}
+.elementor-8
+  .elementor-element.elementor-element-9f17b90
+  > .elementor-widget-container {
+  margin: -15px 0px 0px 0px;
+}
+.elementor-8 .elementor-element.elementor-element-9f17b90 {
+  text-align: center;
+}
+.elementor-8
+  .elementor-element.elementor-element-9f17b90
+  .elementor-heading-title {
+  color: #ffffff;
+  font-family: "Reddit Sans", Sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 23px;
+  letter-spacing: 0.2px;
+}
+.elementor-8 .elementor-element.elementor-element-e1f9d05 {
+  --display: flex;
+  --flex-direction: column;
+  --container-widget-width: 100%;
+  --container-widget-height: initial;
+  --container-widget-flex-grow: 0;
+  --container-widget-align-self: initial;
+  --flex-wrap-mobile: wrap;
+  --justify-content: center;
+  --background-transition: 0.3s;
+  --border-radius: 20px 20px 20px 20px;
+}
+.elementor-8
+  .elementor-element.elementor-element-e1f9d05:not(
+    .elementor-motion-effects-element-type-background
+  ),
+.elementor-8
+  .elementor-element.elementor-element-e1f9d05
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-color: transparent;
+  background-image: linear-gradient(142deg, #2f4fa2 0%, #4fa4f5 100%);
+}
+.elementor-8 .elementor-element.elementor-element-e1f9d05,
+.elementor-8 .elementor-element.elementor-element-e1f9d05::before {
+  --border-transition: 0.3s;
+}
+.elementor-8 .elementor-element.elementor-element-981dba5 {
+  text-align: center;
+}
+.elementor-8
+  .elementor-element.elementor-element-981dba5
+  .elementor-heading-title {
+  color: #ffffff;
+  font-family: "Reddit Sans", Sans-serif;
+  font-size: 65px;
+  font-weight: 600;
+  letter-spacing: 0.2px;
+}
+.elementor-8
+  .elementor-element.elementor-element-f2c0eb1
+  > .elementor-widget-container {
+  margin: -15px 0px 0px 0px;
+}
+.elementor-8 .elementor-element.elementor-element-f2c0eb1 {
+  text-align: center;
+}
+.elementor-8
+  .elementor-element.elementor-element-f2c0eb1
+  .elementor-heading-title {
+  color: #ffffff;
+  font-family: "Reddit Sans", Sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 23px;
+  letter-spacing: 0.2px;
+}
+.elementor-8 .elementor-element.elementor-element-4e3fca2 {
+  --display: flex;
+  --flex-direction: column;
+  --container-widget-width: 100%;
+  --container-widget-height: initial;
+  --container-widget-flex-grow: 0;
+  --container-widget-align-self: initial;
+  --flex-wrap-mobile: wrap;
+  --justify-content: center;
+  --background-transition: 0.3s;
+  --border-radius: 20px 20px 20px 20px;
+}
+.elementor-8
+  .elementor-element.elementor-element-4e3fca2:not(
+    .elementor-motion-effects-element-type-background
+  ),
+.elementor-8
+  .elementor-element.elementor-element-4e3fca2
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-color: transparent;
+  background-image: linear-gradient(142deg, #2f4fa2 0%, #4fa4f5 100%);
+}
+.elementor-8 .elementor-element.elementor-element-4e3fca2,
+.elementor-8 .elementor-element.elementor-element-4e3fca2::before {
+  --border-transition: 0.3s;
+}
+.elementor-8 .elementor-element.elementor-element-9d09faf {
+  text-align: center;
+}
+.elementor-8
+  .elementor-element.elementor-element-9d09faf
+  .elementor-heading-title {
+  color: #ffffff;
+  font-family: "Reddit Sans", Sans-serif;
+  font-size: 65px;
+  font-weight: 600;
+  letter-spacing: 0.2px;
+}
+.elementor-8
+  .elementor-element.elementor-element-61d5b16
+  > .elementor-widget-container {
+  margin: -15px 0px 0px 0px;
+}
+.elementor-8 .elementor-element.elementor-element-61d5b16 {
+  text-align: center;
+}
+.elementor-8
+  .elementor-element.elementor-element-61d5b16
+  .elementor-heading-title {
+  color: #ffffff;
+  font-family: "Reddit Sans", Sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 23px;
+  letter-spacing: 0.2px;
+}
+.elementor-8 .elementor-element.elementor-element-1c488be {
+  --spacer-size: 50px;
+}
+.elementor-8 .elementor-element.elementor-element-6e5c3d5 {
+  --display: flex;
+  --flex-direction: column;
+  --container-widget-width: 100%;
+  --container-widget-height: initial;
+  --container-widget-flex-grow: 0;
+  --container-widget-align-self: initial;
+  --flex-wrap-mobile: wrap;
+  --background-transition: 0.3s;
+}
+.elementor-8
+  .elementor-element.elementor-element-6e5c3d5:not(
+    .elementor-motion-effects-element-type-background
+  ),
+.elementor-8
+  .elementor-element.elementor-element-6e5c3d5
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-color: transparent;
+  background-image: linear-gradient(142deg, #2f4fa2 0%, #4fa4f5 100%);
+}
+.elementor-8 .elementor-element.elementor-element-6e5c3d5,
+.elementor-8 .elementor-element.elementor-element-6e5c3d5::before {
+  --border-transition: 0.3s;
+}
+.elementor-8 .elementor-element.elementor-element-9db6279 {
+  --display: flex;
+  --background-transition: 0.3s;
+}
+.elementor-8 .elementor-element.elementor-element-5156906 {
+  --display: flex;
+  --flex-direction: column;
+  --container-widget-width: 100%;
+  --container-widget-height: initial;
+  --container-widget-flex-grow: 0;
+  --container-widget-align-self: initial;
+  --flex-wrap-mobile: wrap;
+  --background-transition: 0.3s;
+  --overlay-opacity: 1;
+}
+.elementor-8 .elementor-element.elementor-element-5156906::before,
+.elementor-8
+  .elementor-element.elementor-element-5156906
+  > .elementor-background-video-container::before,
+.elementor-8
+  .elementor-element.elementor-element-5156906
+  > .e-con-inner
+  > .elementor-background-video-container::before,
+.elementor-8
+  .elementor-element.elementor-element-5156906
+  > .elementor-background-slideshow::before,
+.elementor-8
+  .elementor-element.elementor-element-5156906
+  > .e-con-inner
+  > .elementor-background-slideshow::before,
+.elementor-8
+  .elementor-element.elementor-element-5156906
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer::before {
+  background-image: url("/wp-content/uploads/2024/11/Asset-10.png");
+  --background-overlay: "";
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.elementor-8
+  .elementor-element.elementor-element-5156906:not(
+    .elementor-motion-effects-element-type-background
+  ),
+.elementor-8
+  .elementor-element.elementor-element-5156906
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-color: #ffffff;
+}
+.elementor-8 .elementor-element.elementor-element-5156906,
+.elementor-8 .elementor-element.elementor-element-5156906::before {
+  --border-transition: 0.3s;
+}
+.elementor-8 .elementor-element.elementor-element-d18b1ae {
+  --spacer-size: 50px;
+}
+.elementor-8 .elementor-element.elementor-element-b0af8c6 {
+  --display: grid;
+  --e-con-grid-template-columns: repeat(2, 1fr);
+  --e-con-grid-template-rows: repeat(1, 1fr);
+  --grid-auto-flow: row;
+  --background-transition: 0.3s;
+  --margin-top: 0px;
+  --margin-bottom: 0px;
+  --margin-left: 0px;
+  --margin-right: 0px;
+  --z-index: 22;
+}
+.elementor-8 .elementor-element.elementor-element-a20d2df {
+  --display: flex;
+  --justify-content: center;
+  --background-transition: 0.3s;
+}
+.elementor-8 .elementor-element.elementor-element-01d263a img {
+  max-width: 83%;
+}
+.elementor-8 .elementor-element.elementor-element-b98ad95 {
+  --display: flex;
+  --justify-content: center;
+  --background-transition: 0.3s;
+}
+.elementor-8
+  .elementor-element.elementor-element-d3f6d8e
+  .elementor-heading-title {
+  color: #000000;
+  font-family: "Reddit Sans", Sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 23px;
+  letter-spacing: 0.2px;
+}
+.elementor-8 .elementor-element.elementor-element-86457a8 {
+  --grid-template-columns: repeat(0, auto);
+  --grid-column-gap: 9px;
+  --grid-row-gap: 0px;
+}
+.elementor-8
+  .elementor-element.elementor-element-86457a8
+  .elementor-widget-container {
+  text-align: left;
+}
+.elementor-8
+  .elementor-element.elementor-element-86457a8
+  > .elementor-widget-container {
+  margin: 0px 0px 0px 0px;
+}
+.elementor-8
+  .elementor-element.elementor-element-86457a8
+  .elementor-social-icon {
+  background-color: #2f4fa2;
+}
+.elementor-8
+  .elementor-element.elementor-element-86457a8
+  .elementor-social-icon
+  i {
+  color: #ffffff;
+}
+.elementor-8
+  .elementor-element.elementor-element-86457a8
+  .elementor-social-icon
+  svg {
+  fill: #ffffff;
+}
+.elementor-8 .elementor-element.elementor-element-84168aa {
+  --spacer-size: 50px;
+}
+.elementor-8 .elementor-element.elementor-element-6b015e7 {
+  --display: flex;
+  --flex-direction: column;
+  --container-widget-width: 100%;
+  --container-widget-height: initial;
+  --container-widget-flex-grow: 0;
+  --container-widget-align-self: initial;
+  --flex-wrap-mobile: wrap;
+  --background-transition: 0.3s;
+}
+.elementor-8
+  .elementor-element.elementor-element-6b015e7:not(
+    .elementor-motion-effects-element-type-background
+  ),
+.elementor-8
+  .elementor-element.elementor-element-6b015e7
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-color: transparent;
+  background-image: linear-gradient(142deg, #2f4fa2 0%, #4fa4f5 100%);
+}
+.elementor-8 .elementor-element.elementor-element-6b015e7,
+.elementor-8 .elementor-element.elementor-element-6b015e7::before {
+  --border-transition: 0.3s;
+}
+.elementor-8 .elementor-element.elementor-element-ec89ccb {
+  text-align: center;
+}
+.elementor-8
+  .elementor-element.elementor-element-ec89ccb
+  .elementor-heading-title {
+  color: #ffffff;
+  font-family: "Reddit Sans", Sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 23px;
+  letter-spacing: 0.2px;
+}
+@media (min-width: 768px) {
+  .elementor-8 .elementor-element.elementor-element-9f3c68e {
+    --width: 50.982%;
+  }
+  .elementor-8 .elementor-element.elementor-element-12bfb5e {
+    --width: 82.32%;
+  }
+}
+@media (max-width: 1024px) {
+  .elementor-8 .elementor-element.elementor-element-472a51d {
+    --grid-auto-flow: row;
+  }
+  .elementor-8 .elementor-element.elementor-element-3e91f7a {
+    --grid-auto-flow: row;
+  }
+  .elementor-8 .elementor-element.elementor-element-468c18f {
+    --grid-auto-flow: row;
+  }
+  .elementor-8 .elementor-element.elementor-element-12bfb5e {
+    --grid-auto-flow: row;
+  }
+  .elementor-8 .elementor-element.elementor-element-b0af8c6 {
+    --grid-auto-flow: row;
+  }
+}
+@media (max-width: 767px) {
+  .elementor-8 .elementor-element.elementor-element-472a51d {
+    --e-con-grid-template-columns: repeat(1, 1fr);
+    --grid-auto-flow: row;
+  }
+  .elementor-8 .elementor-element.elementor-element-98167e5 {
+    text-align: center;
+  }
+  .elementor-8 .elementor-element.elementor-element-98167e5 img {
+    max-width: 66%;
+  }
+  .elementor-8
+    .elementor-element.elementor-element-6ddd298
+    .elementor-widget-container {
+    text-align: center;
+  }
+  .elementor-8 .elementor-element.elementor-element-8452bbd {
+    --spacer-size: 1px;
+  }
+  .elementor-8 .elementor-element.elementor-element-a1de03c {
+    text-align: center;
+  }
+  .elementor-8 .elementor-element.elementor-element-a1de03c img {
+    max-width: 75%;
+  }
+  .elementor-8 .elementor-element.elementor-element-e609d87 {
+    text-align: center;
+  }
+  .elementor-8
+    .elementor-element.elementor-element-e609d87
+    .elementor-heading-title {
+    font-size: 18px;
+  }
+  .elementor-8 .elementor-element.elementor-element-9f3c68e {
+    --flex-wrap: nowrap;
+  }
+  .elementor-8
+    .elementor-element.elementor-element-6f4fdb1
+    > .elementor-widget-container {
+    margin: 0px 0px -10px 0px;
+  }
+  .elementor-8 .elementor-element.elementor-element-6f4fdb1 {
+    text-align: center;
+  }
+  .elementor-8 .elementor-element.elementor-element-6f4fdb1 img {
+    max-width: 64%;
+  }
+  .elementor-8 .elementor-element.elementor-element-43c7fc4 {
+    --spacer-size: 10px;
+  }
+  .elementor-8 .elementor-element.elementor-element-3e91f7a {
+    --e-con-grid-template-columns: repeat(1, 1fr);
+    --grid-auto-flow: row;
+    --margin-top: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+  }
+  .elementor-8 .elementor-element.elementor-element-63743cb {
+    --spacer-size: 10px;
+  }
+  .elementor-8 .elementor-element.elementor-element-afce953 {
+    --spacer-size: 10px;
+  }
+  .elementor-8 .elementor-element.elementor-element-861baf2 {
+    text-align: center;
+  }
+  .elementor-8
+    .elementor-element.elementor-element-6499ce2
+    .elementor-heading-title {
+    font-size: 16px;
+  }
+  .elementor-8
+    .elementor-element.elementor-element-e2e77d2
+    > .elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+  }
+  .elementor-8 .elementor-element.elementor-element-e2e77d2 {
+    text-align: center;
+  }
+  .elementor-8 .elementor-element.elementor-element-e2e77d2 img {
+    max-width: 61%;
+  }
+  .elementor-8 .elementor-element.elementor-element-f2455df {
+    --spacer-size: 10px;
+  }
+  .elementor-8 .elementor-element.elementor-element-468c18f {
+    --e-con-grid-template-columns: repeat(1, 1fr);
+    --grid-auto-flow: row;
+  }
+  .elementor-8 .elementor-element.elementor-element-28ca693 {
+    text-align: left;
+  }
+  .elementor-8
+    .elementor-element.elementor-element-db3c985
+    .elementor-heading-title {
+    font-size: 16px;
+  }
+  .elementor-8 .elementor-element.elementor-element-46e3325 {
+    --spacer-size: 10px;
+  }
+  .elementor-8 .elementor-element.elementor-element-a83318d {
+    --spacer-size: 10px;
+  }
+  .elementor-8 .elementor-element.elementor-element-0043611 img {
+    max-width: 68%;
+  }
+  .elementor-8 .elementor-element.elementor-element-12bfb5e {
+    --e-con-grid-template-columns: repeat(1, 1fr);
+    --grid-auto-flow: row;
+  }
+  .elementor-8
+    .elementor-element.elementor-element-1082c4c
+    .elementor-heading-title {
+    font-size: 44px;
+  }
+  .elementor-8
+    .elementor-element.elementor-element-c49ee36
+    .elementor-heading-title {
+    font-size: 44px;
+  }
+  .elementor-8
+    .elementor-element.elementor-element-981dba5
+    .elementor-heading-title {
+    font-size: 44px;
+  }
+  .elementor-8
+    .elementor-element.elementor-element-9d09faf
+    .elementor-heading-title {
+    font-size: 44px;
+  }
+  .elementor-8 .elementor-element.elementor-element-1c488be {
+    --spacer-size: 10px;
+  }
+  .elementor-8 .elementor-element.elementor-element-d18b1ae {
+    --spacer-size: 10px;
+  }
+  .elementor-8 .elementor-element.elementor-element-b0af8c6 {
+    --e-con-grid-template-columns: repeat(1, 1fr);
+    --grid-auto-flow: row;
+  }
+  .elementor-8 .elementor-element.elementor-element-d3f6d8e {
+    text-align: center;
+  }
+  .elementor-8
+    .elementor-element.elementor-element-d3f6d8e
+    .elementor-heading-title {
+    font-size: 16px;
+  }
+  .elementor-8
+    .elementor-element.elementor-element-86457a8
+    .elementor-widget-container {
+    text-align: center;
+  }
+  .elementor-8 .elementor-element.elementor-element-84168aa {
+    --spacer-size: 10px;
+  }
+} /* Start custom CSS for html, class: .elementor-element-d4e08de */
+.image-marquee {
+  display: flex;
+  overflow: hidden;
+  width: 100%;
+}
+
+.image-marquee img {
+  min-width: 200px; /* Adjust the width as necessary */
+  height: auto;
+  margin-right: 20px; /* Spacing between images */
+  animation: marquee 10s linear infinite;
+}
+
+@keyframes marquee {
+  0% {
+    transform: translateX(500%);
+  }
+  100% {
+    transform: translateX(-550%);
+  }
+} /* End custom CSS */
+/* Start custom CSS for html, class: .elementor-element-24bc00c */
+.image-marquee {
+  display: flex;
+  overflow: hidden;
+  width: 100%;
+}
+
+.image-marquee img {
+  min-width: 200px; /* Adjust the width as necessary */
+  height: auto;
+  margin-right: 20px; /* Spacing between images */
+  animation: marquee 10s linear infinite;
+}
+
+@keyframes marquee {
+  0% {
+    transform: translateX(500%);
+  }
+  100% {
+    transform: translateX(-550%);
+  }
+} /* End custom CSS */
+/* Start custom CSS for html, class: .elementor-element-2e7959b */
+.image-marquee {
+  display: flex;
+  overflow: hidden;
+  width: 100%;
+}
+
+.image-marquee img {
+  min-width: 200px; /* Adjust the width as necessary */
+  height: auto;
+  margin-right: 20px; /* Spacing between images */
+  animation: marquee 10s linear infinite;
+}
+
+@keyframes marquee {
+  0% {
+    transform: translateX(500%);
+  }
+  100% {
+    transform: translateX(-550%);
+  }
+} /* End custom CSS */
